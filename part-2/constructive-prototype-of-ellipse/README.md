@@ -13,9 +13,9 @@ I denna uppgift ska du komplettera med kod så att objekt, som representerar en 
 
 Övningsuppgiften är uppdelad i tre filer och du ska skriva kod i som skapar objekt enligt nämndt designmönster. Genomför uppgiften genom att arbeta med filerna, och designmönster, i tur och ordning.
 
-1. `Ellips.js` - _"Constructor/Prototype Pattern"_
-1. `Circle.js` - _"Constructor/Prototype Pattern"_ som ärver från `Ellips`.
-1. `app.js` - instansierar och använder objekt av typerna `Ellips`och `Circle`.
+1. `Ellipse.js` - _"Constructor/Prototype Pattern"_
+1. `Circle.js` - _"Constructor/Prototype Pattern"_ som ärver från `Ellipse`.
+1. `app.js` - instansierar och använder objekt av typerna `Ellipse`och `Circle`.
 
 Genom att använda designmönstret ska typer skapas som har egenskaper och metoder enigt nedan.
 
